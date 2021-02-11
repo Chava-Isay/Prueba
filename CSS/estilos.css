@@ -1,7 +1,7 @@
 body {
   color: black;
   text-align: left;
-  font-family: courier;
+  font-family: Arial; 
 }
 
 #cabecera
@@ -24,17 +24,16 @@ body {
 
 }
 
-}
-  #container
-    {
+#container
+{
       width: 70%;
       padding: 1cm;
       text-align: left;
-      border: 10px solid #ddd;
+      border: solid 1px (rgb(178, 192, 255);
+      background-color: #ddd;
       margin: 0 auto;
-    }
-  
 }
+  
 #container h1 
 {
 
